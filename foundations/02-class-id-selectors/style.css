@@ -1,0 +1,20 @@
+.titulo{
+    background-color:#FF9999;
+    color: rgb(0, 0, 0);
+    font-family: "Verdana", "DejaVu Sans", sans-serif; 
+}
+
+.titulo.grande{
+    font-size: 24px;
+}
+
+#titulote{
+    color: #00f;
+    font-size: 36px;
+}
+
+#titulito{
+    color: rgb(102, 255, 102);
+    font-size: 24px;
+    font-weight: bold;
+}
