@@ -1,0 +1,14 @@
+.claseuno,
+.clasedos {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.claseuno {
+    background-color: black;
+    color: white;
+}
+
+.clasedos {
+    background-color: yellow;
+}
